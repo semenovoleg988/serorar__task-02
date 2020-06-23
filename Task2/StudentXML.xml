@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfStudent>
+  <Student>
+    <Name>Василий Никульча</Name>
+    <AvgMark>3.6</AvgMark>
+  </Student>
+  <Student>
+    <Name>Петр Осипов</Name>
+    <AvgMark>4.5</AvgMark>
+  </Student>
+  <Student>
+    <Name>Маша Косоротикова</Name>
+    <AvgMark>3.8</AvgMark>
+  </Student>
+  <Student>
+    <Name>Георгий Лепс</Name>
+    <AvgMark>3.9</AvgMark>
+  </Student>
+  <Student>
+    <Name>Марк Цукерберг</Name>
+    <AvgMark>4.4</AvgMark>
+  </Student>
+  <Student>
+    <Name>Джон Ленон</Name>
+    <AvgMark>4.3</AvgMark>
+  </Student>
+  <Student>
+    <Name>Карина Иванченко</Name>
+    <AvgMark>4.9</AvgMark>
+  </Student>
+</ArrayOfStudent>
